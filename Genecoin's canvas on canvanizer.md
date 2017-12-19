@@ -1,1 +1,8 @@
-Genecoin Canvas - https://canvanizer.com/canvas/w2MHBaMvgc6Ca
+
+|Partners|   |Activities|   |Value Propositions|   |Costumer Relationship|   |Costumer Segment|
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
+|   |   |Resources|   |   |   |Channels|    |   |
+|   |   |   |   |   |   |   |   |   |
+|Cost Structure   |   |   |   |Revenue Stream   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
