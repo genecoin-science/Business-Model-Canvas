@@ -1,46 +1,45 @@
 # Canvas
-Lean Canvas
-
+Genecoin
 # Problem
-1. Top problem
-1. Top problem
-1. Top problem
+1. Deploy large research projects fast (Hire researchers and services over countries and currencies)
+2. Financial stability
+3. Increase income
 
 # Customer-segment
-1. Target customer
-1. Target customer
-1. Target customer
+1. Biotech Innovative Companies (Fortune 500)
+2. Grad students and lab technitians
+3. Undergrad students and researchers
+4. Laboratories
 
 # Unique-Value-Proposition
-**Single**, _clear_, `compelling` message that states why you are different and worth buying
+**Speed up Scientific Open Innovation accross countries, languages and currencies**
 
 # Solution
-- First top feature
-- Second top feature
-- Third top feature
+- Stable, liquidy, valuable currency
+- Marketplace for decentralized research and innovation
+- crowdworkforce
 
 # Channels
-- Path to the customer
+- Conferences and fairs
 - Social media
-- Point of sale
+- word of mounth
 
 # Cost-Structure
 - Customer aquisition costs
 - Distribution costs
 - Hosting
-- People, ...
+- Project management
 
 # Revenue-Stream
-- Revenue model 
-- Life time value
-- Revenue
-- Gross margin
+- Revenue model: Capital gain 
+- Life time value:
+- Marketcap
 
 # Key-Metrics
-- Key activity to measure
-- Other key activity to measure
-- Another key activity to measure
+- Costumer acquisition: more people and business accepting genecoin
+- softstructure: marketplace development and more services offered in genecoin
+- infrastructure: blockchain development to  
 
 # Unfair-advantage
-- C'ant be easily...
-- ... copied and bought
+- C'ant be easily...... copied and bought
+- Here we have a problem. It is only first mover advantage
