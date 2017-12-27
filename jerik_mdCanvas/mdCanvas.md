@@ -1,5 +1,6 @@
 # Canvas
 Genecoin
+
 # Problem
 1. Deploy large research projects fast (Hire researchers and services over countries and currencies)
 2. Financial stability
