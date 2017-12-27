@@ -1,2 +1,2 @@
 # Business-Model-Canvas
-[Canvas](Business-Model-Canvas/jerik_mdCanvas/mdCanvas.html)
+[Canvas](https://github.com/genecoin-science/Business-Model-Canvas/blob/master/jerik_mdCanvas/mdCanvas.html)
